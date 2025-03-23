@@ -85,7 +85,7 @@ Windows OS (with administrator privileges)
 ### **Files in the Project**:
 - `smart_ids.py` – Main IDS detection logic
 - `alerts_only.py` – Real-time alert monitor
-- `alerts_only_log.txt` – Logged alerts output
+- `alerts_only_log.txt` – Logs alerts output
 - `icmp loopback capture.pcapng` – Wireshark ICMP flood capture
 
 ### 📄 Note:
