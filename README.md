@@ -88,4 +88,8 @@ Windows OS (with administrator privileges)
 - `alerts_only_log.txt` – Logged alerts output
 - `icmp loopback capture.pcapng` – Wireshark ICMP flood capture
 
+### 📄 Note:
+The file alerts_only_log.txt will be automatically created when you run smart_ids.py.
+It stores all detected intrusion alerts in real-time.
+
 
